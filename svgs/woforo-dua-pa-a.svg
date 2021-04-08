@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="265" height="240" viewBox="0 0 265 240">
+  <g id="woforo-dua-pa-a" transform="translate(-560 -430)">
+    <g id="Group_4" data-name="Group 4" transform="translate(560 430.001)">
+      <rect id="Rectangle_27" data-name="Rectangle 27" width="74.634" height="37.066" transform="translate(40.309 102.392)"/>
+      <path id="Union_10" data-name="Union 10" d="M0,99V0H37.081V71.244H115V99Z" transform="translate(0 140.999)"/>
+      <path id="Union_11" data-name="Union 11" d="M0,99V27.756H37.081V99ZM0,27.756V0H115V27.756Z" transform="translate(0 -0.001)"/>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(709.724 430.002)">
+      <rect id="Rectangle_27-2" data-name="Rectangle 27" width="74.79" height="37.066" transform="translate(0 102.392)"/>
+      <path id="Union_10-2" data-name="Union 10" d="M0,99V27.756H37.081V99ZM0,27.756V0H115V27.756Z" transform="translate(115.276 239.998) rotate(180)"/>
+      <path id="Union_11-2" data-name="Union 11" d="M0,99V0H37.081V71.244H115V99Z" transform="translate(115.276 98.998) rotate(180)"/>
+    </g>
+  </g>
+</svg>

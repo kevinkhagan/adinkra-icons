@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="334" height="160" viewBox="0 0 334 160">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_122" data-name="Rectangle 122" width="304" height="80" transform="translate(-0.411 0.126)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="owo-foro-adobe" transform="translate(-251.194 -73.253)">
+    <g id="Group_51" data-name="Group 51" transform="translate(251 73)">
+      <g id="Group_47" data-name="Group 47">
+        <rect id="Rectangle_119" data-name="Rectangle 119" width="316" height="18" transform="translate(0.194 0.253)"/>
+        <rect id="Rectangle_118" data-name="Rectangle 118" width="316" height="18" transform="translate(0.194 22.253)"/>
+      </g>
+      <g id="Group_48" data-name="Group 48" transform="translate(17.834 120.379)">
+        <rect id="Rectangle_117" data-name="Rectangle 117" width="316" height="18" transform="translate(0.36 -0.126)"/>
+        <rect id="Rectangle_116" data-name="Rectangle 116" width="316" height="18" transform="translate(0.36 21.874)"/>
+      </g>
+    </g>
+    <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(266.605 113.126)" clip-path="url(#clip-path)">
+      <g id="Group_54" data-name="Group 54" transform="translate(-7.902 -16.433)">
+        <rect id="Rectangle_108" data-name="Rectangle 108" width="8.917" height="130.321" transform="matrix(-0.839, 0.545, -0.545, -0.839, 158.827, 110.264)"/>
+        <rect id="Rectangle_108-2" data-name="Rectangle 108" width="8.917" height="129.85" transform="matrix(-0.839, 0.545, -0.545, -0.839, 131.632, 109.319)"/>
+        <rect id="Rectangle_108-3" data-name="Rectangle 108" width="8.917" height="130.321" transform="matrix(-0.839, 0.545, -0.545, -0.839, 105.651, 110.242)"/>
+        <rect id="Rectangle_108-4" data-name="Rectangle 108" width="8.917" height="131.122" transform="matrix(-0.839, 0.545, -0.545, -0.839, 78.893, 109.968)"/>
+      </g>
+      <g id="Group_52" data-name="Group 52" transform="translate(152.664 -16.341)">
+        <rect id="Rectangle_108-5" data-name="Rectangle 108" width="8.917" height="129.675" transform="matrix(-0.839, 0.545, -0.545, -0.839, 158.475, 109.722)"/>
+        <rect id="Rectangle_108-6" data-name="Rectangle 108" width="8.917" height="129.119" transform="matrix(-0.839, 0.545, -0.545, -0.839, 131.28, 108.776)"/>
+        <rect id="Rectangle_108-7" data-name="Rectangle 108" width="8.917" height="129.675" transform="matrix(-0.839, 0.545, -0.545, -0.839, 105.299, 109.699)"/>
+        <rect id="Rectangle_108-8" data-name="Rectangle 108" width="8.917" height="129.675" transform="matrix(-0.839, 0.545, -0.545, -0.839, 78.104, 108.754)"/>
+      </g>
+      <g id="Group_53" data-name="Group 53" transform="translate(70.847 -16.074)">
+        <rect id="Rectangle_108-9" data-name="Rectangle 108" width="8.917" height="131.181" transform="matrix(0.839, 0.545, -0.545, 0.839, 71.446, 0)"/>
+        <rect id="Rectangle_108-10" data-name="Rectangle 108" width="8.917" height="129.428" transform="matrix(0.839, 0.545, -0.545, 0.839, 97.687, 0.522)"/>
+        <rect id="Rectangle_108-11" data-name="Rectangle 108" width="8.917" height="130.814" transform="matrix(0.839, 0.545, -0.545, 0.839, 124.422, 0.284)"/>
+        <rect id="Rectangle_108-12" data-name="Rectangle 108" width="8.917" height="129.428" transform="matrix(0.839, 0.545, -0.545, 0.839, 150.862, 0.501)"/>
+      </g>
+    </g>
+  </g>
+</svg>
