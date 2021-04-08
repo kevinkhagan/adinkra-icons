@@ -1,3 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="207.999" height="240.001" viewBox="0 0 207.999 240.001">
-  <path id="nkyimkyim" d="M175.643,7865v-43.077H149.452V7865H117.1v-43.077H90.9V7865H58.547v-43.077H32.356V7865H0v-73.848H208V7865Zm0-73.848v-10.768H0v-30.769H208v41.536ZM0,7749.616v-41.54H208v30.769H32.356v10.771Zm175.643-41.54v-10.768H0v-30.77H208v41.537ZM0,7666.539v-10.771H32.356v10.771Zm0-10.771V7625H208v30.77Z" transform="translate(0 -7624.999)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="nkyimkyim" transform="translate(-89 -119)">
+    <rect id="Rectangle_149" data-name="Rectangle 149" width="24" height="24" transform="translate(89 119)" fill="none"/>
+    <path id="Path_110" data-name="Path 110" d="M-314.148,38.887h16.888v6.628h-16.888V46.5h16.888V57.08h-3.111V53.131h-2.519V57.08H-306V53.131h-2.518V57.08h-3.112V53.131h-2.518V57.08h-3.112V50.31h16.889v-.987h-16.889V42.695h16.889v-.987h-16.889V35.08h20V37.9h-16.888Z" transform="translate(408.259 84.92)"/>
+  </g>
 </svg>

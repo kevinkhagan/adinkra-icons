@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="334" height="173" viewBox="0 0 334 173">
-  <g id="Epa" transform="translate(-809 -746)">
-    <path id="Subtraction_1" data-name="Subtraction 1" d="M122.5,173h0L0,86.5,122.5,0,245,86.5,122.5,173Zm0-134.478L54.556,86.5,122.5,134.476,190.444,86.5,122.5,38.522Z" transform="translate(809 746)"/>
-    <path id="Subtraction_2" data-name="Subtraction 2" d="M122.5,173h0L0,86.5,122.5,0,245,86.5,122.5,173Zm0-134.478L54.556,86.5,122.5,134.476,190.444,86.5,122.5,38.522Z" transform="translate(898 746)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="epa" transform="translate(-41 -71)">
+    <rect id="Rectangle_149" data-name="Rectangle 149" width="24" height="24" transform="translate(41 71)" fill="none"/>
+    <path id="Path_79" data-name="Path 79" d="M8.912,72.4l-8.069-6-2.931,2.18L-5.019,66.4l-8.069,6,8.069,6,2.931-2.18L.843,78.4ZM-5.019,75.726-9.494,72.4l4.475-3.328,1.134.844L-7.226,72.4l3.341,2.484ZM-.544,72.4l-1.544,1.148L-3.632,72.4l1.544-1.148Zm.252-2.484L.843,69.07,5.318,72.4.843,75.726l-1.134-.843L3.05,72.4Z" transform="translate(55.088 10.602)"/>
   </g>
 </svg>
