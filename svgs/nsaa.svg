@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g id="nsaa" transform="translate(-377 -119)">
-    <rect id="Rectangle_149" data-name="Rectangle 149" width="24" height="24" transform="translate(377 119)" fill="none"/>
-    <path id="Path_117" data-name="Path 117" d="M58.366,27.454V17.889H48.8v5.739h-2.87V17.889H36.366v9.565h5.739v2.87H36.366v9.565h9.565V34.15H48.8v5.739h9.565V30.324H52.627v-2.87ZM44.018,32.237v5.739H38.279V32.237h5.739V29.893H46.41v2.343Zm12.435,0v5.739H50.714V32.237H48.323V29.893h2.391v2.343Zm-5.739-6.7V27.98H48.323V25.541H46.41V27.98H44.018V25.541H38.279V19.8h5.739v5.739h6.7V19.8h5.739v5.739Z" transform="translate(341.634 102.111)"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g transform="translate(-377 -119)"><rect width="24" height="24" transform="translate(377 119)" fill="none"/><path d="M58.366,27.454V17.889H48.8v5.739h-2.87V17.889H36.366v9.565h5.739v2.87H36.366v9.565h9.565V34.15H48.8v5.739h9.565V30.324H52.627v-2.87ZM44.018,32.237v5.739H38.279V32.237h5.739V29.893H46.41v2.343Zm12.435,0v5.739H50.714V32.237H48.323V29.893h2.391v2.343Zm-5.739-6.7V27.98H48.323V25.541H46.41V27.98H44.018V25.541H38.279V19.8h5.739v5.739h6.7V19.8h5.739v5.739Z" transform="translate(341.634 102.111)"/></g></svg>
