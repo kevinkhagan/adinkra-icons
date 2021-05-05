@@ -1,0 +1,26 @@
+{
+  "name": "adinkra-font-icons",
+  "version": "0.2.3",
+  "description": "Adinkra Font Icons is a set of visual symbols for designers and developers. These symbols represent an historical and philosophical significance originally printed on cloth which royals wore to important ceremonies. Originating from the Gyaman people of Ghana and la Côte d’Ivoire, the symbols have assumed global importance and are now found in logos, clothes, furniture, sculpture, earthenware pots, and many others.",
+  "keywords": [
+    "adinkra", "africa", "ghana", "symbols", "font", "icon", "icon library", "icon pack"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinkhagan/adinkra-font-icons.git"
+  },
+  "files": [
+    "fonts/",
+    "icons/",
+    "License",
+    "package.json",
+    "README.md"
+  ],
+  "license": "Apache 2.0",
+  "author": "Kevin Kweku Hagan",
+  "contributors": ["Wendy Gao <wendygaoyuan@163.com>", "Jimmy Cheung <jimmy@remixdesign.cn>"],
+  "bugs": {
+    "url": "https://github.com/kevinkhagan/adinkra-font-icons/issues"
+  },
+  "homepage": "https://github.com/kevinkhagan/adinkra-font-icons#readme"
+}
