@@ -1,10 +1,11 @@
 on: 
     push:
         branches:
-            - minify
+            - master
     pull_request:
+        types: [closed]
         branches:
-            - minify
+            - master
 name: Publish Teleplay to production
 jobs:
     FTP-Deploy-Action:
