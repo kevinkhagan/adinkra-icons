@@ -1,11 +1,11 @@
 on: 
     push:
         branches:
-            - minify
+            - master
     pull_request:
         types: [closed]
         branches:
-            - minify
+            - master
 name: Auto Minify Adinkra-Icons
 jobs:
     FTP-Deploy-Action:
