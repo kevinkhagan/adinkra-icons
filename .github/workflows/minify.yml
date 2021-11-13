@@ -6,7 +6,7 @@ on:
         types: [closed]
         branches:
             - master
-name: Publish Teleplay to production
+name: Auto Minify Adinkra-Icons
 jobs:
     FTP-Deploy-Action:
         name: Auto Minification Action
@@ -19,7 +19,7 @@ jobs:
               with:
                   overwrite: false
                   directory: 'css'
-                  output: 'min.css'
+                  output: 'css'
               
             - name: Auto committing minified files
               uses: stefanzweifel/git-auto-commit-action@v4
