@@ -1,6 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g id="owuo-atwedee" transform="translate(-329 -71)">
-    <rect id="Rectangle_149" data-name="Rectangle 149" width="24" height="24" transform="translate(329 71)" fill="none"/>
-    <path id="Path_89" data-name="Path 89" d="M53.642,51.308V53.05h-7.69V51.308H42.8v22h3.155V71.566h7.69v1.742H56.8v-22Zm0,17.325h-7.69V66.341h7.69Zm0-5.225h-7.69v-2.2h7.69Zm0-5.133h-7.69V55.983h7.69Z" transform="translate(291.203 20.692)"/>
-  </g>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M15.845 1V2.742H8.15499V1H5.00299V23H8.15799V21.258H15.848V23H19.003V1H15.845ZM15.845 18.325H8.15499V16.033H15.845V18.325ZM15.845 13.1H8.15499V10.9H15.845V13.1ZM15.845 7.967H8.15499V5.675H15.845V7.967Z" fill="black"/>
 </svg>

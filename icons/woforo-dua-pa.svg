@@ -1,9 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g id="woforo-dua-pa" transform="translate(-41 -119)">
-    <rect id="Rectangle_149" data-name="Rectangle 149" width="24" height="24" transform="translate(41 119)" fill="none"/>
-    <g id="Group_83" data-name="Group 83" transform="translate(36.958 40.46)">
-      <path id="Path_108" data-name="Path 108" d="M148.758,89.216V79.54H139.04v3.385h6.318v6.291H139.04v2.647h6.318v6.291H139.04v3.385h9.718V91.864h-3.392V89.216Z" transform="translate(-121.714)"/>
-      <path id="Path_109" data-name="Path 109" d="M5.04,89.216H8.432v2.647H5.04v9.676h9.718V98.155H8.44V91.864h6.319V89.216H8.44V82.925h6.319V79.54H5.04Z"/>
-    </g>
-  </g>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M23.002 10.676V1H13.284V4.385H19.602V10.676H13.284V13.323H19.602V19.614H13.284V22.999H23.002V13.324H19.61V10.676H23.002Z" fill="black"/>
+<path d="M0.997986 10.676H4.38999V13.323H0.997986V22.999H10.716V19.615H4.39799V13.324H10.717V10.676H4.39799V4.385H10.717V1H0.997986V10.676Z" fill="black"/>
 </svg>
