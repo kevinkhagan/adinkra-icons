@@ -19,5 +19,5 @@ add 'adinkra-icons/css/style.css' to your project
 Add icon with class name adk-{name}
 
 ```html
-<i class="adk-kete-pa"></i>
+<i class="adk adk-kete-pa"></i>
 ```

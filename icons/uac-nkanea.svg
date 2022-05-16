@@ -1,11 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g id="uac-nkanea" transform="translate(-137 -407)">
-    <rect id="Rectangle_149" data-name="Rectangle 149" width="24" height="24" transform="translate(137 407)" fill="none"/>
-    <g id="Group_197" data-name="Group 197" transform="translate(302.665 -1191.634)">
-      <path id="Path_508" data-name="Path 508" d="M-161.971,1602.328h7.184v6.286h2.694v-1.8h4.49v-2.694h-4.49v-4.49h-12.571v7.633h2.694Z"/>
-      <path id="Path_509" data-name="Path 509" d="M-145.359,1599.634H-150.3v2.694h4.939v7.184h-6.286v2.694h1.8v4.49h2.694v-4.49h4.49v-12.571Z"/>
-      <path id="Path_510" data-name="Path 510" d="M-145.359,1618.94h-7.184v-6.286h-2.694v1.8h-4.49v2.694h4.49v4.49h12.571V1614h-2.694Z"/>
-      <path id="Path_511" data-name="Path 511" d="M-161.971,1611.756h6.286v-2.694h-1.8v-4.49h-2.694v4.49h-4.49v12.571h7.633v-2.694h-4.939Z"/>
-    </g>
-  </g>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3.69398 3.69397H10.878V9.97998H13.572V8.17993H18.062V5.48596H13.572V0.995972H1.00098V8.62891H3.69498L3.69398 3.69397Z" fill="black"/>
+<path d="M15.365 1V3.69397H20.304V10.8779H14.018V13.572H15.818V18.062H18.512V13.572H23.002V1.00098L15.365 1Z" fill="black"/>
+<path d="M20.306 20.3059H13.122V14.02H10.428V15.8199H5.93797V18.5139H10.428V23.0039H22.999V15.366H20.305L20.306 20.3059Z" fill="black"/>
+<path d="M3.69398 13.1219H9.97998V10.428H8.17998V5.93799H5.48598V10.428H0.995972V22.999H8.62898V20.3049H3.68997L3.69398 13.1219Z" fill="black"/>
 </svg>
