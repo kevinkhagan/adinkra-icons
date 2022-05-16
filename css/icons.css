@@ -310,12 +310,22 @@
 .adk-sunsum:before {
   content: "\e960";
 }
-.adk-tamfo-bebre:before {
+.adk-tabono:before {
   content: "\e961";
 }
-.adk-uac-nkanea:before {
+.adk-tamfo-bebre:before {
   content: "\e962";
 }
-.adk-wawa-aba:before {
+.adk-uac-nkanea:before {
   content: "\e963";
 }
+.adk-wawa-aba:before {
+  content: "\e964";
+}
+.adk-wo-nsa-da-mu:before {
+  content: "\e965";
+}
+.adk-woforo-dua-pa:before {
+  content: "\e966";
+}
+
